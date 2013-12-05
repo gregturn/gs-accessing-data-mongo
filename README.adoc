@@ -1,5 +1,6 @@
 ---
 categories: [data,mongodb]
+projects: [spring-data-mongo]
 ---
 :toc:
 :icons: font
